@@ -1,0 +1,9 @@
+body {
+    margin: center;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.style {
+    transform: skew(20deg);
+}
